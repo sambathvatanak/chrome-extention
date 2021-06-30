@@ -1,5 +1,5 @@
 body{
-  width: 300px;
+  width: 320px;
   height: 380px;
 }
 .nav-side-menu {
@@ -163,5 +163,9 @@ body {
 }
 
 li.nav-link {
+  padding-left: 15px;
+}
+
+li#nav-link {
   padding-left: 15px;
 }

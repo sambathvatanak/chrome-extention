@@ -1,7 +1,7 @@
 {
     "name": "AIB-DST",
-    "description": "Extension use for AIB",
-    "version": "1.0",
+    "description": "Google chrome extension use for AIB",
+    "version": "V 1.0.0",
     "manifest_version": 3,
     "background": {
         "service_worker": "background.js"
